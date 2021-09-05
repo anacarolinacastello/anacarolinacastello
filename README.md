@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋,
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anacarolinacastello&label=Profile%20views&color=0e75b6&style=flat" alt="anacarolinacastello" /> </p>
+
 [![](https://github-readme-stats.vercel.app/api?username=anacarolinacastello&theme=cobalt)](https://github.com/anacarolinacastello/)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacastello&hide=html&layout=compact=true&theme=cobalt)](https://github.com/anacarolinacastello/)
